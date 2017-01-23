@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BaseButton.qml</file>
+        <file>BaseMouseArea.qml</file>
+        <file>PointerMouseArea.qml</file>
+    </qresource>
+</RCC>
